@@ -23,4 +23,3 @@ Nesta primeira etapa da entrega, o foco está na análise do problema e no plane
 ## 📄 Documentação
 
 A documentação completa do projeto está disponível [aqui](https://docs.google.com/document/d/1F1uPSjdrv39JHK1ywuRRFmf5WkMxuf24eqVcTof5jTg/edit?usp=sharing).
-Oi Vitinho aurudo67
